@@ -36,7 +36,9 @@ In Stella, F1 is the console Select switch.
 - Reaching certain score milestones earns a bonus life, up to a maximum of 3.
 - Reaching round 16 refills you to 3 lives.
 - Lose all your lives and you end up on the dinner plate. Press Fire to
-  return to the title, then Fire again to start over.
+  return to the title. Select only works there, so to restart at a later
+  round, press Fire on the dinner screen, then Select (or push Up/Down) on
+  the title, then Fire to start.
 
 ### The 16 rounds
 
